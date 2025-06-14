@@ -27,13 +27,55 @@ const siteData = {
             "category": "Liderança",
             "date": "2025-03-10",
             "content": "Em processo democrático, a turma elegeu Alice Sarah e Agatha Carolina como líderes de sala, e Isac Felipe dos Santos Silva e Maria Paula Toth como vice-líderes. Parabéns aos eleitos!"
+        },
+        {
+            "title": "Convocação para a 2ªFase da OBMEP",
+            "category": "Provas",
+            "date": "2025-06-10",
+            "content": "Alunos Gabriel Albino e Apolo Milani, foram convocados para a segunda fase da OBMEP de 2025. Parabéns aos convocados.",
+            "id": 1749923420787
         }
     ],
     "horarios": [
-        { "horario": "1° Aula", "segunda": "Arte", "terca": "Português", "quarta": "Geografia", "quinta": "Português", "sexta": "Inglês" },
-        { "horario": "2° Aula", "segunda": "Matemática", "terca": "Matemática", "quarta": "Geografia", "quinta": "Matemática", "sexta": "Artes" },
-        { "horario": "3° Aula", "segunda": "Matemática", "terca": "Matemática", "quarta": "História", "quinta": "Matemática", "sexta": "Ciências" },
-        { "horario": "4° Aula", "segunda": "Português", "terca": "Geografia", "quarta": "Português", "quinta": "Ciências", "sexta": "Português" },
-        { "horario": "5° Aula", "segunda": "História", "terca": "Inglês", "quarta": "Português", "quinta": "Ciências", "sexta": "História" }
+        {
+            "horario": "1° Aula",
+            "segunda": "Arte",
+            "terca": "Português",
+            "quarta": "Geografia",
+            "quinta": "Português",
+            "sexta": "Inglês"
+        },
+        {
+            "horario": "2° Aula",
+            "segunda": "Matemática",
+            "terca": "Matemática",
+            "quarta": "Geografia",
+            "quinta": "Matemática",
+            "sexta": "Artes"
+        },
+        {
+            "horario": "3° Aula",
+            "segunda": "Matemática",
+            "terca": "Matemática",
+            "quarta": "História",
+            "quinta": "Matemática",
+            "sexta": "Ciências"
+        },
+        {
+            "horario": "4° Aula",
+            "segunda": "Português",
+            "terca": "Geografia",
+            "quarta": "Português",
+            "quinta": "Ciências",
+            "sexta": "Português"
+        },
+        {
+            "horario": "5° Aula",
+            "segunda": "História",
+            "terca": "Inglês",
+            "quarta": "Português",
+            "quinta": "Ciências",
+            "sexta": "História"
+        }
     ]
 };
